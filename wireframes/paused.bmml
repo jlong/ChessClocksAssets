@@ -165,14 +165,14 @@
         <borderStyle>roundedSolid</borderStyle>
       </controlProperties>
     </control>
-    <control controlID="83" controlTypeID="com.balsamiq.mockups::Label" x="601" y="394" w="-1" h="-1" measuredW="146" measuredH="82" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Label" x="598" y="394" w="-1" h="-1" measuredW="146" measuredH="82" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <align>right</align>
         <size>60</size>
         <text>13%3A59</text>
       </controlProperties>
     </control>
-    <control controlID="84" controlTypeID="com.balsamiq.mockups::Label" x="833" y="394" w="-1" h="-1" measuredW="159" measuredH="82" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Label" x="831" y="394" w="-1" h="-1" measuredW="159" measuredH="82" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <align>right</align>
         <size>60</size>
@@ -240,14 +240,14 @@
             <borderStyle>roundedSolid</borderStyle>
           </controlProperties>
         </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="93" y="70" w="-1" h="-1" measuredW="146" measuredH="82" zOrder="3" locked="false" isInGroup="93">
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="87" y="70" w="-1" h="-1" measuredW="146" measuredH="82" zOrder="3" locked="false" isInGroup="93">
           <controlProperties>
             <align>right</align>
             <size>60</size>
             <text>13%3A59</text>
           </controlProperties>
         </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="80" y="309" w="-1" h="-1" measuredW="159" measuredH="82" zOrder="4" locked="false" isInGroup="93">
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="81" y="309" w="-1" h="-1" measuredW="159" measuredH="82" zOrder="4" locked="false" isInGroup="93">
           <controlProperties>
             <align>right</align>
             <size>60</size>

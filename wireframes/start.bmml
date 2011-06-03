@@ -167,7 +167,6 @@
     <control controlID="68" controlTypeID="com.balsamiq.mockups::HRule" x="73" y="80" w="1046" h="5" measuredW="100" measuredH="5" zOrder="7" locked="false" isInGroup="-1"/>
     <control controlID="69" controlTypeID="__group__" x="158" y="317" w="179" h="140" measuredW="179" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>new%26bm%3Bnew.bmml%26bm%3Bnew.bmml%26bm%3Bnew.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2285%2C279%2C264%2C419%22%20href%3D%22new.bmml%22%20alt%3D%22new%22%20id%3D%2269%22/%3E</map>
       </controlProperties>
       <groupChildrenDescriptors>
@@ -181,7 +180,6 @@
     </control>
     <control controlID="70" controlTypeID="__group__" x="701" y="314" w="179" h="140" measuredW="179" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>new%26bm%3Bnew.bmml%26bm%3Bnew.bmml%26bm%3Bnew.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22628%2C276%2C807%2C416%22%20href%3D%22new.bmml%22%20alt%3D%22new%22%20id%3D%2270%22/%3E</map>
       </controlProperties>
       <groupChildrenDescriptors>
